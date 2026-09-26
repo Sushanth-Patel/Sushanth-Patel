@@ -1,193 +1,331 @@
+<!-- ======================= HEADER ======================= -->
+
 <div align="center">
 
-<img src="./assets/banner.png" alt="Sushanth Patel" width="100%"/>
+<a href="https://github.com/Sushanth-Patel">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Sushanth%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Software%20Engineering%20%7C%20Cybersecurity&descAlignY=60&descSize=18"/>
+</a>
 
-# Sushanth Patel
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems;Exploring+AI%2C+LLMs+%26+intelligent+systems;Learning+by+building%2C+breaking+%26+improving;Computer+Science+Developer" />
 
-### Computer Science Developer · AI/ML · Software Engineering
+<br/>
 
-Building practical software, intelligent systems, and secure applications.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Sushanth--Patel-181717?style=flat&logo=github)](https://github.com/Sushanth-Patel)
+<a href="https://github.com/Sushanth-Patel">
+<img src="https://img.shields.io/github/followers/Sushanth-Patel?label=Followers&style=for-the-badge&color=2563eb"/>
+</a>
+<a href="https://github.com/Sushanth-Patel?tab=repositories">
+<img src="https://img.shields.io/github/stars/Sushanth-Patel?label=Stars&style=for-the-badge&color=f59e0b"/>
+</a>
+<a href="https://github.com/Sushanth-Patel?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-10-06b6d4?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-## About
+# 👨‍💻 About Me
 
-I’m a Computer Science developer interested in **Artificial Intelligence, software engineering, cybersecurity, and automation**.
+I'm **Sushanth Patel**, a Computer Science developer interested in building practical software and intelligent systems.
 
-I enjoy taking problems from an initial idea through **architecture, implementation, testing, and deployment**. My projects range from Android and full-stack applications to secure systems and experiments with language-model development.
+My projects span **AI/ML, software engineering, cybersecurity, Android development, web applications, and automation**.
 
-Currently, I’m focusing on building a stronger foundation in **AI engineering, LLMs, system design, and production-oriented software development**.
+I learn primarily by building — taking an idea from **problem → design → implementation → testing → improvement**.
 
----
+```text
+Currently exploring:
 
-## Areas of Focus
-
-| Area | Focus |
-|---|---|
-| **AI / ML** | LLMs, Transformers, NLP, RAG, AI Agents, Computer Vision |
-| **Software Engineering** | Backend systems, APIs, application architecture, databases |
-| **Security** | Cryptography, encryption, authentication, authorization, RBAC |
-| **Application Development** | Android, web applications, real-time systems |
-| **Automation** | AI-powered workflows, developer tools, intelligent applications |
+AI / ML              → LLMs · Transformers · RAG · AI Agents
+Software Engineering → Backend · APIs · System Design
+Security              → Cryptography · Encryption · RBAC
+Applications          → Android · Web · Real-Time Systems
+Automation            → AI-powered tools & workflows
+```
 
 ---
 
-## Selected Projects
+# 🚀 Featured Projects
 
-### SafeRoute-AI
-**AI-powered safety and route intelligence**
+<div align="center">
 
-Exploring how AI can be applied to mobility and personal safety to provide more informed route decisions.
+<a href="https://github.com/Sushanth-Patel/SafeRoute-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sushanth-Patel&repo=SafeRoute-AI&theme=tokyonight&hide_border=true"/>
+</a>
 
-**Technologies:** Python · AI · Computer Vision
+<a href="https://github.com/Sushanth-Patel/Encrypted-Online-Examination-Question-Paper-Distribution-with-Role-Based-Access-Control">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sushanth-Patel&repo=Encrypted-Online-Examination-Question-Paper-Distribution-with-Role-Based-Access-Control&theme=tokyonight&hide_border=true"/>
+</a>
 
-[View Repository →](https://github.com/Sushanth-Patel/SafeRoute-AI)
+<a href="https://github.com/Sushanth-Patel/Chat-Application">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sushanth-Patel&repo=Chat-Application&theme=tokyonight&hide_border=true"/>
+</a>
 
----
+<a href="https://github.com/Sushanth-Patel/Dopamine_Lock">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sushanth-Patel&repo=Dopamine_Lock&theme=tokyonight&hide_border=true"/>
+</a>
 
-### Encrypted Online Examination Question Paper Distribution
-**Secure examination document distribution**
+</div>
 
-A security-focused system for distributing examination question papers using encryption and role-based access control.
+### 🛡️ SafeRoute-AI
 
-**Technologies:** Java · Cryptography · RBAC
+AI-powered navigation focused on identifying safer routes using crime data, environmental conditions, and community inputs.
 
-[View Repository →](https://github.com/Sushanth-Patel/Encrypted-Online-Examination-Question-Paper-Distribution-with-Role-Based-Access-Control)
+**Python · AI · Intelligent Systems**
 
----
-
-### Chat Application
-**Real-time Android communication**
-
-A mobile communication application with authentication, real-time messaging, and Firebase integration.
-
-**Technologies:** Kotlin · Android · Firebase
-
-[View Repository →](https://github.com/Sushanth-Patel/Chat-Application)
+[View Project →](https://github.com/Sushanth-Patel/SafeRoute-AI)
 
 ---
 
-### Dopamine Lock
-**Digital productivity and distraction management**
+### 🔐 Encrypted Online Examination System
 
-An Android application designed to help users reduce distracting app usage and maintain focus.
+A secure examination platform designed to keep question papers encrypted until authorized access, using role-based access control.
 
-**Technologies:** Kotlin · Android
+**HTML · Java · Cryptography · RBAC**
 
-[View Repository →](https://github.com/Sushanth-Patel/Dopamine_Lock)
-
----
-
-### QR Code Generator
-**Web-based QR generation utility**
-
-A responsive web application for generating and customizing QR codes.
-
-**Technologies:** HTML · CSS · JavaScript
-
-[View Repository →](https://github.com/Sushanth-Patel/QR-Code-Generator)
+[View Project →](https://github.com/Sushanth-Patel/Encrypted-Online-Examination-Question-Paper-Distribution-with-Role-Based-Access-Control)
 
 ---
 
-## AI / LLM Engineering
+### 💬 Chat Application
 
-One of my current areas of exploration is understanding language models at the implementation level.
+Real-time Android communication application with OTP authentication, user search, messaging and push notifications.
 
-I have been working through the complete pipeline of a small GPT-style model:
+**Java · Android · Firebase**
 
-**Dataset → Tokenization → Embeddings → Transformer → Training → Checkpoints → Inference**
+[View Project →](https://github.com/Sushanth-Patel/Chat-Application)
 
-This includes working with:
+---
 
-- Custom tokenization
+### 🔒 Dopamine Lock
+
+Android productivity application designed to help users reduce distracting app usage through blocking, quizzes, urge-surfing exercises and journaling.
+
+**Kotlin · Android**
+
+[View Project →](https://github.com/Sushanth-Patel/Dopamine_Lock)
+
+---
+
+# 🧠 AI / ML
+
+I'm currently going deeper than simply consuming AI APIs.
+
+One of my projects involves building a small GPT-style language model from the ground up:
+
+```text
+Dataset
+   ↓
+Tokenization
+   ↓
+Embeddings
+   ↓
+Transformer
+   ↓
+Self-Attention
+   ↓
+Feed Forward Network
+   ↓
+Training
+   ↓
+Checkpoint
+   ↓
+Inference
+   ↓
+Generated Text
+```
+
+### Areas I'm exploring
+
+- Large Language Models
 - Transformer architecture
-- Multi-head self-attention
-- Positional embeddings
-- Feed-forward networks
-- Training pipelines
-- Model checkpoints
-- Text generation
-- PyTorch acceleration
-
-The goal is to understand the engineering behind modern AI systems rather than treating models as black boxes.
+- NLP
+- RAG
+- AI Agents
+- Tool Calling
+- Computer Vision
+- Model Training
+- Model Evaluation
+- AI Automation
 
 ---
 
-## Technology
+# 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,c" />
 
-### AI / ML
+### Web & Application Development
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+<img src="https://skillicons.dev/icons?i=html,css,js,android,firebase" />
 
-**LLMs · Transformers · NLP · RAG · AI Agents · Computer Vision**
+### AI / ML & Tools
 
-### Development
-
-**Android · Firebase · REST APIs · Web Development · Databases · Git · GitHub**
-
-### Security
-
-**Cryptography · Encryption · Authentication · Authorization · Role-Based Access Control**
-
----
-
-## Currently Learning
-
-- Advanced LLM engineering
-- Retrieval-Augmented Generation
-- AI agents and tool-based systems
-- System design and backend architecture
-- Model evaluation and deployment
-- Cybersecurity and secure application design
-- Production-oriented software engineering
-
----
-
-## Engineering Philosophy
-
-> **Understand the problem. Build the system. Test it. Learn from what breaks. Improve it.**
-
-I’m particularly interested in projects where software is more than a demonstration — systems that can be **used, evaluated, improved, and eventually deployed**.
-
----
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sushanth-Patel&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushanth-Patel&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img src="https://skillicons.dev/icons?i=pytorch,git,github,vscode,figma" />
 
 </div>
 
 ---
 
-## Let's Connect
+# 📚 Currently Learning
 
-I’m open to collaborating on:
+<table align="center">
+<tr>
+<td align="center" width="200">
 
-**AI / ML · Generative AI · Software Engineering · Cybersecurity · Open Source · Hackathons · Real-World Applications**
+### 🤖
+**AI Engineering**
+
+LLMs  
+Transformers  
+RAG  
+AI Agents
+
+</td>
+
+<td align="center" width="200">
+
+### ⚙️
+**Software Engineering**
+
+System Design  
+Backend  
+APIs  
+Architecture
+
+</td>
+
+<td align="center" width="200">
+
+### 🔐
+**Cybersecurity**
+
+Cryptography  
+Authentication  
+Authorization  
+Secure Systems
+
+</td>
+
+<td align="center" width="200">
+
+### 🚀
+**Deployment**
+
+Cloud  
+CI/CD  
+Production AI  
+DevOps
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sushanth--Patel-181717?style=flat-square&logo=github)](https://github.com/Sushanth-Patel)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sushanth-Patel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushanth-Patel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sushanth-Patel&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sushanth-Patel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sushanth-Patel/Sushanth-Patel/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 💡 How I Think
+
+<div align="center">
+
+### Problem → Research → Design → Build → Test → Break → Improve → Ship
+
+</div>
+
+I don't want to only know **how to use a technology**.
+
+I want to understand:
+
+- Why it works
+- How it works
+- Where it fails
+- How to improve it
+- How to turn it into something people can actually use
+
+---
+
+# 🎯 2026
+
+```text
+[✓] Build real software
+[✓] Explore AI / ML
+[✓] Experiment with LLM engineering
+[ ] Build production-grade AI systems
+[ ] Develop stronger system-design skills
+[ ] Contribute to open source
+[ ] Deploy more projects
+[ ] Turn experiments into products
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Sushanth-Patel">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-**Building useful things, one system at a time.**
+### Open to interesting problems, projects, collaborations and opportunities.
+
+<br/>
+
+**Build. Learn. Solve. Repeat.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer"/>
 
 </div>
