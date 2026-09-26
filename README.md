@@ -50,7 +50,6 @@ const sushanth = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -170,37 +169,6 @@ A responsive QR-code generation application supporting URL input, customization,
 
 ---
 
-## 🧠 What I Build
-
-```text
-                 ┌─────────────────────┐
-                 │       IDEA          │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │    Architecture     │
-                 └──────────┬──────────┘
-                            ↓
-          ┌─────────────────┼─────────────────┐
-          ↓                 ↓                 ↓
-      Frontend           Backend             AI
-          │                 │                 │
-        React           Node/Flask          RAG/LLM
-        Next.js         REST APIs             NLP
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Database & Cloud    │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │       Deploy        │
-                 └─────────────────────┘
-```
-
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -217,34 +185,6 @@ A responsive QR-code generation application supporting URL input, customization,
 
 </p>
 
----
-
-## 💡 My Developer Philosophy
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Sushanth Patel"
-        self.role = "Full-Stack Developer"
-        self.focus = [
-            "Backend Engineering",
-            "AI Applications",
-            "Cloud & DevOps",
-            "Problem Solving"
-        ]
-
-    def build(self):
-        return "Turn ideas into useful software."
-
-    def improve(self):
-        return "Learn → Build → Test → Deploy → Repeat"
-
-
-me = Developer()
-
-print(me.build())
-print(me.improve())
-```
 
 ---
 
@@ -269,9 +209,3 @@ I'm interested in **software development, AI applications, backend engineering, 
 </p>
 
 ---
-
-### ⚡ Build. Learn. Ship. Repeat.
-
-> Turning ideas into useful software, one project at a time.
-
-⭐ If you find something useful here, feel free to explore the repositories and connect.
