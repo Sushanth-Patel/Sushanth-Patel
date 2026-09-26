@@ -2,18 +2,18 @@
 
 <img src="./assets/banner.png" width="100%" alt="Sushanth Patel"/>
 
-<br/>
+<br>
 
-# SUSHANTH PATEL
+# Sushanth Patel
 
-### `AI / ML` · `SOFTWARE ENGINEERING` · `BACKEND` · `CYBERSECURITY`
+### `AI / ML` · `Software Development` · `Backend`
 
-**Building intelligent systems, practical software, and technology that solves real problems.**
+**I build AI-powered applications and software systems to solve practical problems.**
 
-<br/>
+<br>
 
 <a href="https://github.com/Sushanth-Patel">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Sushanth--Patel-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/sushanth-patel">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -23,420 +23,204 @@
 
 ---
 
-# `01 // PROFILE`
+## `01 — ABOUT`
 
-> **Who am I?**
+I'm a Computer Science student and developer interested in **AI/ML and software development**.
 
-I'm a Computer Science developer focused on **AI/ML, backend development, software engineering, and secure systems**.
+I like building projects where AI is connected to an actual application — whether that's retrieving information from documents, analysing routes, or creating backend systems that people can interact with.
 
-I like working on problems where software has to do more than simply display information — systems that need to **retrieve knowledge, process data, integrate services, protect information, communicate in real time, or make useful decisions**.
-
-My approach is simple:
-
-```text
-PROBLEM
-   ↓
-UNDERSTAND
-   ↓
-DESIGN
-   ↓
-BUILD
-   ↓
-MEASURE
-   ↓
-IMPROVE
-   ↓
-SHIP
-```
-
-I'm currently going deeper into **RAG, LLM applications, AI engineering, backend architecture, and system design**.
+Currently, I'm going deeper into **RAG, LLM applications, backend development, and building better end-to-end software systems.**
 
 ---
 
-# `02 // WHAT DO I BUILD?`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ AI SYSTEMS
-
-Building applications around:
-
-- Retrieval-Augmented Generation
-- LLM APIs
-- Hybrid search
-- Vector databases
-- NLP
-- AI-powered workflows
-- Evaluation
-
-</td>
-
-<td width="50%" valign="top">
-
-### ◈ SOFTWARE SYSTEMS
-
-Building:
-
-- Backend applications
-- REST APIs
-- Web applications
-- Real-time systems
-- Database-driven applications
-- Android applications
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ◈ SECURE SYSTEMS
-
-Working with:
-
-- Encryption
-- Role-based access control
-- Authentication
-- Authorization
-- Controlled access
-- Access logging
-
-</td>
-
-<td width="50%" valign="top">
-
-### ◈ EXPERIMENTATION
-
-Exploring:
-
-- LLM internals
-- Transformers
-- AI agents
-- Automation
-- Computer vision
-- New developer workflows
-
-</td>
-</tr>
-</table>
-
----
-
-# `03 // WHY THESE PROJECTS?`
-
-I don't build projects only to demonstrate that I know a framework.
-
-I use projects to answer engineering questions:
-
-> **Can I turn a real problem into a working system?**
-
-> **Can I choose appropriate technologies instead of blindly following tutorials?**
-
-> **Can I measure whether the system actually works?**
-
-> **Can I explain the decisions behind the implementation?**
-
-> **Can someone else understand, run, and extend the project?**
-
-That's the standard I am working toward.
-
----
-
-# `04 // SELECTED SYSTEMS`
-
-## `01` — Retrieval-Augmented Generation Pipeline
-
-### **Turning documents into grounded AI responses.**
-
-A multi-format RAG pipeline combining **hybrid vector + BM25 retrieval**, ChromaDB, LLM APIs, source citations, and evaluation.
-
-### Architecture
-
-```text
-                 ┌──────────────┐
-                 │    DOCUMENTS │
-                 └──────┬───────┘
-                        ↓
-              ┌───────────────────┐
-              │   INGESTION       │
-              └────────┬──────────┘
-                       ↓
-          ┌──────────────────────────┐
-          │       RETRIEVAL          │
-          │                          │
-          │  Vector Search + BM25    │
-          └────────────┬─────────────┘
-                       ↓
-                ┌─────────────┐
-                │   CONTEXT   │
-                └──────┬──────┘
-                       ↓
-                  ┌─────────┐
-                  │   LLM   │
-                  └────┬────┘
-                       ↓
-             ┌──────────────────┐
-             │ ANSWER + SOURCES │
-             └──────────────────┘
-```
-
-### Engineering highlights
-
-- Multi-format document processing
-- Hybrid retrieval
-- ChromaDB vector storage
-- BM25 retrieval
-- LLM API integration
-- Source citations
-- Evaluation workflow
-
-### Measured result
-
-**91.4% — 32/35 evaluation benchmark**
-
-This project is particularly important to me because it moves beyond *"I connected an LLM API"* toward understanding **retrieval quality, grounding, and evaluation**.
-
-**Stack:** `Python` `RAG` `ChromaDB` `BM25` `LLM APIs`
-
----
-
-## `02` — SafeRoute AI
-
-### **Applying AI to a real-world safety problem.**
-
-An AI-powered route analysis platform combining route information with **crime, emergency, and community-report data**.
-
-### System
-
-```text
-USER
- │
- ├──────────────► LOCATION
- │
- └──────────────► DESTINATION
-                         │
-                         ▼
-                  GOOGLE MAPS API
-                         │
-                         ▼
-              SAFETY DATA PROCESSING
-                         │
-              ┌──────────┼──────────┐
-              ▼          ▼          ▼
-            Crime     Emergency   Community
-             Data       Data       Reports
-              └──────────┼──────────┘
-                         ▼
-                    AI / NLP
-                         │
-                         ▼
-                  ROUTE ANALYSIS
-                         │
-                         ▼
-                  USER RESPONSE
-```
-
-### Technologies
-
-`Python` `Flask` `Groq` `NLP` `Google Maps API` `SQLite` `Socket.IO`
-
-### Engineering focus
-
-- API integration
-- Backend architecture
-- AI/NLP integration
-- Safety-data processing
-- Database management
-- Real-time communication
-
-**Repository →**  
-https://github.com/Sushanth-Patel/SafeRoute-AI
-
----
-
-## `03` — Encrypted Online Examination Question Paper Distribution
-
-### **Security by design.**
-
-A secure examination-paper distribution system designed around **encryption, role-based access control, controlled decryption, and access logging**.
-
-```text
-QUESTION PAPER
-      │
-      ▼
-   ENCRYPT
-      │
-      ▼
- SECURE STORAGE
-      │
-      ▼
- AUTHENTICATE
-      │
-      ▼
-  AUTHORIZE
-      │
-      ▼
-CONTROLLED
- DECRYPTION
-      │
-      ▼
-AUTHORIZED USER
-      │
-      ▼
-  ACCESS LOG
-```
-
-### Technologies
-
-`Python` `Flask` `Encryption` `RBAC`
-
-### Engineering focus
-
-- Confidentiality
-- Access control
-- Controlled decryption
-- Authorization
-- Auditability
-
-**Repository →**  
-https://github.com/Sushanth-Patel/Encrypted-Online-Examination-Question-Paper-Distribution-with-Role-Based-Access-Control
-
----
-
-# `05 // TECHNICAL STACK`
+## `02 — WHAT I WORK ON`
 
 <div align="center">
 
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,java,js,c"/>
-
-<br/><br/>
-
-### WEB / BACKEND
-
-<img src="https://skillicons.dev/icons?i=html,css,flask,firebase"/>
-
-<br/><br/>
-
-### AI / DATA
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-<br/>
-
-`RAG` · `ChromaDB` · `BM25` · `Vector Search` · `NLP` · `LLM APIs`
-
-<br/><br/>
-
-### DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
+| AI / ML | Software |
+|:---:|:---:|
+| RAG | Backend |
+| LLM Applications | Web Development |
+| NLP | APIs |
+| Vector Search | Firebase |
+| Hybrid Retrieval | Real-time Applications |
 
 </div>
 
 ---
 
-# `06 // EXPERIENCE`
+# `03 — PROJECTS`
 
-### Web Development Intern
-**VaultofCodes · May 2025 – June 2025**
+## 🔎 Retrieval-Augmented Generation Pipeline
 
-Worked on responsive web applications, implemented assigned frontend/backend features, and debugged and tested web components.
+**A RAG system built around retrieval quality, grounded responses, and evaluation.**
 
-### Foundations of AI Intern
-**Edunet Foundation · April 2025 – May 2025**
+The system supports multiple document formats and combines **vector retrieval with BM25** before passing relevant context to an LLM.
 
-Completed a four-week AI/ML program involving Python programming and analytical problem-solving through hands-on assignments.
+### Built with
+
+`Python` `ChromaDB` `BM25` `LLM APIs`
+
+### What makes it interesting
+
+- Multi-format document processing
+- Hybrid vector + BM25 retrieval
+- ChromaDB
+- LLM integration
+- Source citations
+- Evaluation workflow
+
+### Result
+
+**91.4% — 32/35 evaluation benchmark**
+
+This is one of my main explorations into building AI systems where the quality of the **retrieval layer** matters as much as the generated response.
 
 ---
 
-# `07 // EDUCATION`
+## 🛣️ SafeRoute AI
 
-### B.Tech — Computer Science & Engineering
+**AI-powered route analysis for safer travel decisions.**
 
-**Malla Reddy Engineering College and Management Sciences**  
-Expected **2027**
+SafeRoute AI combines route information with **crime, emergency, and community-report data** to analyse routes using an AI-powered backend.
 
-### Academic Background
+### Built with
 
-**Class XII — 96.3%** · 2023
+`Python` `Flask` `Groq` `NLP` `Google Maps API` `SQLite` `Socket.IO`
 
-**Class X — 100%** · 2021
-
----
-
-# `08 // CURRENTLY EXPLORING`
+### Key components
 
 ```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│  AI ENGINEERING                                   │
-│  ├── RAG architectures                            │
-│  ├── LLM applications                             │
-│  ├── Retrieval evaluation                         │
-│  └── AI agents                                    │
-│                                                    │
-│  SOFTWARE ENGINEERING                             │
-│  ├── Backend architecture                         │
-│  ├── System design                                │
-│  ├── APIs                                         │
-│  └── Production applications                      │
-│                                                    │
-│  SECURITY                                          │
-│  ├── Cryptography                                 │
-│  ├── Authentication                               │
-│  └── Secure system design                         │
-│                                                    │
-└────────────────────────────────────────────────────┘
+Google Maps
+     │
+     ▼
+Route Information
+     │
+     ├──────── Crime Data
+     ├──────── Emergency Data
+     └──────── Community Reports
+                    │
+                    ▼
+                AI / NLP
+                    │
+                    ▼
+              Route Analysis
+```
+
+**Repository →** [SafeRoute-AI](https://github.com/Sushanth-Patel/SafeRoute-AI)
+
+---
+
+## 🔐 Encrypted Online Examination Question Paper Distribution
+
+**A secure system for controlled examination-paper distribution.**
+
+The project uses encryption and role-based access control to control how examination papers are distributed and accessed.
+
+### Built with
+
+`Python` `Flask` `Encryption` `RBAC`
+
+### Key components
+
+- Encryption
+- Role-based access
+- Controlled decryption
+- Access logging
+
+**Repository →** [View Project](https://github.com/Sushanth-Patel/Encrypted-Online-Examination-Question-Paper-Distribution-with-Role-Based-Access-Control)
+
+---
+
+# `04 — TECH STACK`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js"/>
+
+<br><br>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=html,css,flask,firebase,git,github,vscode"/>
+
+<br><br>
+
+### AI / Data
+
+`RAG` · `LLM APIs` · `NLP` · `ChromaDB` · `BM25` · `Vector Search`
+
+</div>
+
+---
+
+# `05 — EXPERIENCE`
+
+### Web Development Intern · VaultofCodes
+
+**May 2025 — June 2025**
+
+Worked on responsive web applications, implemented frontend/backend features, and debugged and tested web components.
+
+### Foundations of AI Intern · Edunet Foundation
+
+**April 2025 — May 2025**
+
+Completed a four-week AI/ML program with hands-on Python programming and analytical problem-solving.
+
+---
+
+# `06 — CURRENTLY LEARNING`
+
+```text
+RAG
+ ├─ Retrieval strategies
+ ├─ Hybrid search
+ ├─ Evaluation
+ └─ Grounded generation
+
+LLM APPLICATIONS
+ ├─ Prompting
+ ├─ Context handling
+ ├─ Tool integration
+ └─ Application architecture
+
+SOFTWARE DEVELOPMENT
+ ├─ Backend development
+ ├─ APIs
+ ├─ Databases
+ └─ System design
 ```
 
 ---
 
-# `09 // HOW I MEASURE A PROJECT`
+# `07 — HOW I LIKE TO BUILD`
 
-A project isn't finished because the code runs.
+<div align="center">
 
-I look at:
+### Problem
+↓
+### Understand
+↓
+### Build
+↓
+### Test
+↓
+### Measure
+↓
+### Improve
 
-| Question | What it tells me |
-|---|---|
-| **Does it solve the intended problem?** | Product usefulness |
-| **Can I explain the architecture?** | Technical understanding |
-| **Can I measure the result?** | Engineering discipline |
-| **What happens when it fails?** | Robustness |
-| **Can another developer run it?** | Documentation |
-| **Can it be improved?** | Architecture quality |
+</div>
 
-That's why evaluation is part of my AI work rather than an afterthought.
+I don't want a project to simply **run**.
 
----
-
-# `10 // CURRENT MISSION`
-
-### From **projects that work** → to **systems that matter**.
-
-My current goal is to become stronger at the intersection of:
-
-```text
-              ARTIFICIAL INTELLIGENCE
-                       ×
-                SOFTWARE ENGINEERING
-                       ×
-                    SECURITY
-                       ×
-                  REAL PROBLEMS
-```
-
-The direction:
-
-**Build → Measure → Understand → Improve → Deploy**
+I want to know whether it **actually works**, which is why evaluation and measurable results are becoming an increasingly important part of my AI projects.
 
 ---
 
-# `11 // GITHUB ACTIVITY`
+# `08 — GITHUB`
 
 <div align="center">
 
@@ -444,7 +228,7 @@ The direction:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushanth-Patel&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="170"/>
 
-<br/><br/>
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Sushanth-Patel&theme=transparent&hide_border=true"/>
 
@@ -452,30 +236,34 @@ The direction:
 
 ---
 
-# `12 // OPEN TO`
+# `09 — WHERE I'M HEADING`
 
-**AI / ML · Software Engineering · Backend Development · RAG · Cybersecurity · Open Source · Hackathons**
+I'm working toward becoming a stronger **AI/software engineer** by moving from individual projects toward systems that are:
 
-I'm interested in working on problems where there is something meaningful to **build, test, measure, and improve**.
+**Useful · measurable · maintainable · deployable**
+
+My current direction:
+
+> **Build AI systems that are actually useful, and become a better software engineer while doing it.**
 
 ---
 
 <div align="center">
 
-### `BUILD • MEASURE • LEARN • IMPROVE`
+### Let's build something useful.
 
-<br/>
+<br>
 
 <a href="https://github.com/Sushanth-Patel">
-<img src="https://img.shields.io/badge/VIEW%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sushanth-patel">
-<img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-**Sushanth Patel**
+`BUILD • LEARN • MEASURE • IMPROVE`
 
 </div>
