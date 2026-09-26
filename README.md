@@ -1,3 +1,4 @@
+![logo]("https://github.com/Sushanth-Patel/Sushanth-Patel/blob/main/LN%20Banner.png")
 <div align="center">
 
 <!-- Replace this URL with your banner image URL -->
