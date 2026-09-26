@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace this URL with your banner image URL -->
-<img src="[YOUR_BANNER_URL_HERE](https://www.google.com/imgres?q=Developer%20futuristic%20gif%20banners&imgurl=https%3A%2F%2Fimg.magnific.com%2Ffree-photo%2Fperson-playing-3d-video-games-device_23-2151005751.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.magnific.com%2Ffree-photos-vectors%2Fcoding-gif&docid=jd3VO0N4Cc4TUM&tbnid=fIftDmrK4EQaBM&vet=12ahUKEwjrhdKv-IuXAxWGkuEIHR_dAWYQnPAOegQIUxAA..i&w=740&h=493&hcb=2&ved=2ahUKEwjrhdKv-IuXAxWGkuEIHR_dAWYQnPAOegQIUxAA)" alt="Sushanth Patel - Design. Develop. Deliver." width="100%">
+<img src="https://www.google.com/imgres?q=Developer%20futuristic%20gif%20banners&imgurl=https%3A%2F%2Fimg.magnific.com%2Ffree-photo%2Fperson-playing-3d-video-games-device_23-2151005751.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.magnific.com%2Ffree-photos-vectors%2Fcoding-gif&docid=jd3VO0N4Cc4TUM&tbnid=fIftDmrK4EQaBM&vet=12ahUKEwjrhdKv-IuXAxWGkuEIHR_dAWYQnPAOegQIUxAA..i&w=740&h=493&hcb=2&ved=2ahUKEwjrhdKv-IuXAxWGkuEIHR_dAWYQnPAOegQIUxAA" alt="Sushanth Patel - Design. Develop. Deliver." width="100%">
 
 <br>
 
