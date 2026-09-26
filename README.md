@@ -279,7 +279,7 @@ RAG pipeline processing documents with vector and hybrid search to generate grou
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 &nbsp;&nbsp;
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://sushanth-patel.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
