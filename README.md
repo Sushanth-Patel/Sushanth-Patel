@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Sushanth Patel
 
-**FULL-STACK DEVELOPER | AI/ML ENTHUSIAST | BACKEND & CLOUD**
+**FULL-STACK DEVELOPER | AI/ML ENTHUSIAST | BACKEND BUILDER**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Backend+%26+Cloud+Builder;Turning+Ideas+Into+Working+Software" />
 
