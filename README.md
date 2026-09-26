@@ -1,223 +1,122 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
-<a href="https://github.com/Sushanth-Patel">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Sushanth%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Software%20Engineering%20%7C%20Cybersecurity&descAlignY=60&descSize=18"/>
-</a>
+<img src="./assets/banner.png" width="100%" alt="Sushanth Patel"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems;Exploring+AI%2C+LLMs+%26+intelligent+systems;Learning+by+building%2C+breaking+%26+improving;Computer+Science+Developer" />
+<br/>
+
+# SUSHANTH PATEL
+
+### `AI / ML` · `SOFTWARE ENGINEERING` · `BACKEND` · `CYBERSECURITY`
+
+**Building intelligent systems, practical software, and technology that solves real problems.**
 
 <br/>
 
 <a href="https://github.com/Sushanth-Patel">
-<img src="https://img.shields.io/github/followers/Sushanth-Patel?label=Followers&style=for-the-badge&color=2563eb"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/Sushanth-Patel?tab=repositories">
-<img src="https://img.shields.io/github/stars/Sushanth-Patel?label=Stars&style=for-the-badge&color=f59e0b"/>
-</a>
-<a href="https://github.com/Sushanth-Patel?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-10-06b6d4?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/sushanth-patel">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# `01 // PROFILE`
 
-I'm **Sushanth Patel**, a Computer Science developer interested in building practical software and intelligent systems.
+> **Who am I?**
 
-My projects span **AI/ML, software engineering, cybersecurity, Android development, web applications, and automation**.
+I'm a Computer Science developer focused on **AI/ML, backend development, software engineering, and secure systems**.
 
-I learn primarily by building — taking an idea from **problem → design → implementation → testing → improvement**.
+I like working on problems where software has to do more than simply display information — systems that need to **retrieve knowledge, process data, integrate services, protect information, communicate in real time, or make useful decisions**.
+
+My approach is simple:
 
 ```text
-Currently exploring:
-
-AI / ML              → LLMs · Transformers · RAG · AI Agents
-Software Engineering → Backend · APIs · System Design
-Security              → Cryptography · Encryption · RBAC
-Applications          → Android · Web · Real-Time Systems
-Automation            → AI-powered tools & workflows
+PROBLEM
+   ↓
+UNDERSTAND
+   ↓
+DESIGN
+   ↓
+BUILD
+   ↓
+MEASURE
+   ↓
+IMPROVE
+   ↓
+SHIP
 ```
 
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Sushanth-Patel/SafeRoute-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sushanth-Patel&repo=SafeRoute-AI&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Sushanth-Patel/Encrypted-Online-Examination-Question-Paper-Distribution-with-Role-Based-Access-Control">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sushanth-Patel&repo=Encrypted-Online-Examination-Question-Paper-Distribution-with-Role-Based-Access-Control&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Sushanth-Patel/Chat-Application">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sushanth-Patel&repo=Chat-Application&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Sushanth-Patel/Dopamine_Lock">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sushanth-Patel&repo=Dopamine_Lock&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-### 🛡️ SafeRoute-AI
-
-AI-powered navigation focused on identifying safer routes using crime data, environmental conditions, and community inputs.
-
-**Python · AI · Intelligent Systems**
-
-[View Project →](https://github.com/Sushanth-Patel/SafeRoute-AI)
+I'm currently going deeper into **RAG, LLM applications, AI engineering, backend architecture, and system design**.
 
 ---
 
-### 🔐 Encrypted Online Examination System
+# `02 // WHAT DO I BUILD?`
 
-A secure examination platform designed to keep question papers encrypted until authorized access, using role-based access control.
-
-**HTML · Java · Cryptography · RBAC**
-
-[View Project →](https://github.com/Sushanth-Patel/Encrypted-Online-Examination-Question-Paper-Distribution-with-Role-Based-Access-Control)
-
----
-
-### 💬 Chat Application
-
-Real-time Android communication application with OTP authentication, user search, messaging and push notifications.
-
-**Java · Android · Firebase**
-
-[View Project →](https://github.com/Sushanth-Patel/Chat-Application)
-
----
-
-### 🔒 Dopamine Lock
-
-Android productivity application designed to help users reduce distracting app usage through blocking, quizzes, urge-surfing exercises and journaling.
-
-**Kotlin · Android**
-
-[View Project →](https://github.com/Sushanth-Patel/Dopamine_Lock)
-
----
-
-# 🧠 AI / ML
-
-I'm currently going deeper than simply consuming AI APIs.
-
-One of my projects involves building a small GPT-style language model from the ground up:
-
-```text
-Dataset
-   ↓
-Tokenization
-   ↓
-Embeddings
-   ↓
-Transformer
-   ↓
-Self-Attention
-   ↓
-Feed Forward Network
-   ↓
-Training
-   ↓
-Checkpoint
-   ↓
-Inference
-   ↓
-Generated Text
-```
-
-### Areas I'm exploring
-
-- Large Language Models
-- Transformer architecture
-- NLP
-- RAG
-- AI Agents
-- Tool Calling
-- Computer Vision
-- Model Training
-- Model Evaluation
-- AI Automation
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,c" />
-
-### Web & Application Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,android,firebase" />
-
-### AI / ML & Tools
-
-<img src="https://skillicons.dev/icons?i=pytorch,git,github,vscode,figma" />
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="200">
+<td width="50%" valign="top">
 
-### 🤖
-**AI Engineering**
+### ◈ AI SYSTEMS
 
-LLMs  
-Transformers  
-RAG  
-AI Agents
+Building applications around:
 
-</td>
-
-<td align="center" width="200">
-
-### ⚙️
-**Software Engineering**
-
-System Design  
-Backend  
-APIs  
-Architecture
+- Retrieval-Augmented Generation
+- LLM APIs
+- Hybrid search
+- Vector databases
+- NLP
+- AI-powered workflows
+- Evaluation
 
 </td>
 
-<td align="center" width="200">
+<td width="50%" valign="top">
 
-### 🔐
-**Cybersecurity**
+### ◈ SOFTWARE SYSTEMS
 
-Cryptography  
-Authentication  
-Authorization  
-Secure Systems
+Building:
+
+- Backend applications
+- REST APIs
+- Web applications
+- Real-time systems
+- Database-driven applications
+- Android applications
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ◈ SECURE SYSTEMS
+
+Working with:
+
+- Encryption
+- Role-based access control
+- Authentication
+- Authorization
+- Controlled access
+- Access logging
 
 </td>
 
-<td align="center" width="200">
+<td width="50%" valign="top">
 
-### 🚀
-**Deployment**
+### ◈ EXPERIMENTATION
 
-Cloud  
-CI/CD  
-Production AI  
-DevOps
+Exploring:
+
+- LLM internals
+- Transformers
+- AI agents
+- Automation
+- Computer vision
+- New developer workflows
 
 </td>
 </tr>
@@ -225,107 +124,358 @@ DevOps
 
 ---
 
-# 📊 GitHub Analytics
+# `03 // WHY THESE PROJECTS?`
+
+I don't build projects only to demonstrate that I know a framework.
+
+I use projects to answer engineering questions:
+
+> **Can I turn a real problem into a working system?**
+
+> **Can I choose appropriate technologies instead of blindly following tutorials?**
+
+> **Can I measure whether the system actually works?**
+
+> **Can I explain the decisions behind the implementation?**
+
+> **Can someone else understand, run, and extend the project?**
+
+That's the standard I am working toward.
+
+---
+
+# `04 // SELECTED SYSTEMS`
+
+## `01` — Retrieval-Augmented Generation Pipeline
+
+### **Turning documents into grounded AI responses.**
+
+A multi-format RAG pipeline combining **hybrid vector + BM25 retrieval**, ChromaDB, LLM APIs, source citations, and evaluation.
+
+### Architecture
+
+```text
+                 ┌──────────────┐
+                 │    DOCUMENTS │
+                 └──────┬───────┘
+                        ↓
+              ┌───────────────────┐
+              │   INGESTION       │
+              └────────┬──────────┘
+                       ↓
+          ┌──────────────────────────┐
+          │       RETRIEVAL          │
+          │                          │
+          │  Vector Search + BM25    │
+          └────────────┬─────────────┘
+                       ↓
+                ┌─────────────┐
+                │   CONTEXT   │
+                └──────┬──────┘
+                       ↓
+                  ┌─────────┐
+                  │   LLM   │
+                  └────┬────┘
+                       ↓
+             ┌──────────────────┐
+             │ ANSWER + SOURCES │
+             └──────────────────┘
+```
+
+### Engineering highlights
+
+- Multi-format document processing
+- Hybrid retrieval
+- ChromaDB vector storage
+- BM25 retrieval
+- LLM API integration
+- Source citations
+- Evaluation workflow
+
+### Measured result
+
+**91.4% — 32/35 evaluation benchmark**
+
+This project is particularly important to me because it moves beyond *"I connected an LLM API"* toward understanding **retrieval quality, grounding, and evaluation**.
+
+**Stack:** `Python` `RAG` `ChromaDB` `BM25` `LLM APIs`
+
+---
+
+## `02` — SafeRoute AI
+
+### **Applying AI to a real-world safety problem.**
+
+An AI-powered route analysis platform combining route information with **crime, emergency, and community-report data**.
+
+### System
+
+```text
+USER
+ │
+ ├──────────────► LOCATION
+ │
+ └──────────────► DESTINATION
+                         │
+                         ▼
+                  GOOGLE MAPS API
+                         │
+                         ▼
+              SAFETY DATA PROCESSING
+                         │
+              ┌──────────┼──────────┐
+              ▼          ▼          ▼
+            Crime     Emergency   Community
+             Data       Data       Reports
+              └──────────┼──────────┘
+                         ▼
+                    AI / NLP
+                         │
+                         ▼
+                  ROUTE ANALYSIS
+                         │
+                         ▼
+                  USER RESPONSE
+```
+
+### Technologies
+
+`Python` `Flask` `Groq` `NLP` `Google Maps API` `SQLite` `Socket.IO`
+
+### Engineering focus
+
+- API integration
+- Backend architecture
+- AI/NLP integration
+- Safety-data processing
+- Database management
+- Real-time communication
+
+**Repository →**  
+https://github.com/Sushanth-Patel/SafeRoute-AI
+
+---
+
+## `03` — Encrypted Online Examination Question Paper Distribution
+
+### **Security by design.**
+
+A secure examination-paper distribution system designed around **encryption, role-based access control, controlled decryption, and access logging**.
+
+```text
+QUESTION PAPER
+      │
+      ▼
+   ENCRYPT
+      │
+      ▼
+ SECURE STORAGE
+      │
+      ▼
+ AUTHENTICATE
+      │
+      ▼
+  AUTHORIZE
+      │
+      ▼
+CONTROLLED
+ DECRYPTION
+      │
+      ▼
+AUTHORIZED USER
+      │
+      ▼
+  ACCESS LOG
+```
+
+### Technologies
+
+`Python` `Flask` `Encryption` `RBAC`
+
+### Engineering focus
+
+- Confidentiality
+- Access control
+- Controlled decryption
+- Authorization
+- Auditability
+
+**Repository →**  
+https://github.com/Sushanth-Patel/Encrypted-Online-Examination-Question-Paper-Distribution-with-Role-Based-Access-Control
+
+---
+
+# `05 // TECHNICAL STACK`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sushanth-Patel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+### LANGUAGES
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushanth-Patel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://skillicons.dev/icons?i=python,java,js,c"/>
 
-</div>
+<br/><br/>
+
+### WEB / BACKEND
+
+<img src="https://skillicons.dev/icons?i=html,css,flask,firebase"/>
+
+<br/><br/>
+
+### AI / DATA
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
 
 <br/>
 
-<div align="center">
+`RAG` · `ChromaDB` · `BM25` · `Vector Search` · `NLP` · `LLM APIs`
 
-<img src="https://streak-stats.demolab.com?user=Sushanth-Patel&theme=tokyonight&hide_border=true" />
+<br/><br/>
 
-</div>
+### DEVELOPMENT
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sushanth-Patel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
+# `06 // EXPERIENCE`
 
-<div align="center">
+### Web Development Intern
+**VaultofCodes · May 2025 – June 2025**
 
-<img src="https://raw.githubusercontent.com/Sushanth-Patel/Sushanth-Patel/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+Worked on responsive web applications, implemented assigned frontend/backend features, and debugged and tested web components.
 
-</div>
+### Foundations of AI Intern
+**Edunet Foundation · April 2025 – May 2025**
 
----
-
-# 💡 How I Think
-
-<div align="center">
-
-### Problem → Research → Design → Build → Test → Break → Improve → Ship
-
-</div>
-
-I don't want to only know **how to use a technology**.
-
-I want to understand:
-
-- Why it works
-- How it works
-- Where it fails
-- How to improve it
-- How to turn it into something people can actually use
+Completed a four-week AI/ML program involving Python programming and analytical problem-solving through hands-on assignments.
 
 ---
 
-# 🎯 2026
+# `07 // EDUCATION`
+
+### B.Tech — Computer Science & Engineering
+
+**Malla Reddy Engineering College and Management Sciences**  
+Expected **2027**
+
+### Academic Background
+
+**Class XII — 96.3%** · 2023
+
+**Class X — 100%** · 2021
+
+---
+
+# `08 // CURRENTLY EXPLORING`
 
 ```text
-[✓] Build real software
-[✓] Explore AI / ML
-[✓] Experiment with LLM engineering
-[ ] Build production-grade AI systems
-[ ] Develop stronger system-design skills
-[ ] Contribute to open source
-[ ] Deploy more projects
-[ ] Turn experiments into products
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  AI ENGINEERING                                   │
+│  ├── RAG architectures                            │
+│  ├── LLM applications                             │
+│  ├── Retrieval evaluation                         │
+│  └── AI agents                                    │
+│                                                    │
+│  SOFTWARE ENGINEERING                             │
+│  ├── Backend architecture                         │
+│  ├── System design                                │
+│  ├── APIs                                         │
+│  └── Production applications                      │
+│                                                    │
+│  SECURITY                                          │
+│  ├── Cryptography                                 │
+│  ├── Authentication                               │
+│  └── Secure system design                         │
+│                                                    │
+└────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🤝 Let's Connect
+# `09 // HOW I MEASURE A PROJECT`
+
+A project isn't finished because the code runs.
+
+I look at:
+
+| Question | What it tells me |
+|---|---|
+| **Does it solve the intended problem?** | Product usefulness |
+| **Can I explain the architecture?** | Technical understanding |
+| **Can I measure the result?** | Engineering discipline |
+| **What happens when it fails?** | Robustness |
+| **Can another developer run it?** | Documentation |
+| **Can it be improved?** | Architecture quality |
+
+That's why evaluation is part of my AI work rather than an afterthought.
+
+---
+
+# `10 // CURRENT MISSION`
+
+### From **projects that work** → to **systems that matter**.
+
+My current goal is to become stronger at the intersection of:
+
+```text
+              ARTIFICIAL INTELLIGENCE
+                       ×
+                SOFTWARE ENGINEERING
+                       ×
+                    SECURITY
+                       ×
+                  REAL PROBLEMS
+```
+
+The direction:
+
+**Build → Measure → Understand → Improve → Deploy**
+
+---
+
+# `11 // GITHUB ACTIVITY`
 
 <div align="center">
 
-<a href="https://github.com/Sushanth-Patel">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Sushanth-Patel&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushanth-Patel&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="170"/>
 
 <br/><br/>
 
-### Open to interesting problems, projects, collaborations and opportunities.
-
-<br/>
-
-**Build. Learn. Solve. Repeat.**
+<img src="https://streak-stats.demolab.com?user=Sushanth-Patel&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
+# `12 // OPEN TO`
+
+**AI / ML · Software Engineering · Backend Development · RAG · Cybersecurity · Open Source · Hackathons**
+
+I'm interested in working on problems where there is something meaningful to **build, test, measure, and improve**.
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer"/>
+### `BUILD • MEASURE • LEARN • IMPROVE`
+
+<br/>
+
+<a href="https://github.com/Sushanth-Patel">
+<img src="https://img.shields.io/badge/VIEW%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sushanth-patel">
+<img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Sushanth Patel**
 
 </div>
