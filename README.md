@@ -178,7 +178,7 @@ Browser-based 3D kart combat game built with Three.js and a Node.js WebSocket se
 - Kart, driver, wheel, exhaust, and paint customization
 - Desktop keyboard and mobile touch controls
 
-**[Repository](https://github.com/Sushanth-Patel/Smash-Karts-V2)**
+**[Repository](https://github.com/Sushanth-Patel/Turbo-Kart)**
 
 </details>
 
