@@ -162,6 +162,29 @@ I focus on turning ideas into working software — from backend APIs and real-ti
 ## 🚀 Featured Projects
 
 <details>
+<summary><strong>🏎️ Turbo Smash Karts 3D</strong> — Multiplayer Kart Battle Arena</summary>
+
+<br>
+
+Browser-based 3D kart combat game built with Three.js and a Node.js WebSocket server. Players can battle online in rooms, customize their karts, collect weapons, or play offline with AI opponents.
+
+**Tech:**
+`JavaScript` `Three.js` `Node.js` `WebSocket` `Web Audio API`
+
+**Highlights**
+- Real-time multiplayer rooms with synchronized game state
+- AI fallback for solo and offline play
+- Weapons, power-ups, health, respawning, and killfeed
+- Kart, driver, wheel, exhaust, and paint customization
+- Desktop keyboard and mobile touch controls
+
+**[Repository](https://github.com/Sushanth-Patel/Smash-Karts-V2)**
+
+</details>
+
+<br>
+
+<details>
 <summary><strong>🛡️ SafeRoute AI</strong> — AI-Powered Safety Navigation</summary>
 
 <br>
