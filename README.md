@@ -265,7 +265,6 @@ Android application designed around reducing distracting app usage through app b
 **[Download APK](https://github.com/Sushanth-Patel/Chat-Application/releases/download/v1.0.0/app-debug.apk)** · **[Repository](https://github.com/Sushanth-Patel/Dopamine_Lock)**
 
 </details>
----
 
 <!-- ==================== GITHUB ACTIVITY ==================== -->
 
