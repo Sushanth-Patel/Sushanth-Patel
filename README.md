@@ -162,23 +162,22 @@ I focus on turning ideas into working software — from backend APIs and real-ti
 ## 🚀 Featured Projects
 
 <details>
-<summary><strong>🏎️ Turbo Smash Karts 3D</strong> — Multiplayer Kart Battle Arena</summary>
+<summary><strong>💬 Chat Application</strong> — Real-Time Android Messaging</summary>
 
 <br>
 
-Browser-based 3D kart combat game built with Three.js and a Node.js WebSocket server. Players can battle online in rooms, customize their karts, collect weapons, or play offline with AI opponents.
+Real-time Android chat application with Firebase authentication, user search, messaging, and push notifications.
 
-**Tech:**
-`JavaScript` `Three.js` `Node.js` `WebSocket` `Web Audio API`
+**Tech:**  
+`Java` `Android` `Firebase`
 
 **Highlights**
-- Real-time multiplayer rooms with synchronized game state
-- AI fallback for solo and offline play
-- Weapons, power-ups, health, respawning, and killfeed
-- Kart, driver, wheel, exhaust, and paint customization
-- Desktop keyboard and mobile touch controls
+- OTP authentication
+- User search
+- Real-time messaging
+- Push notifications
 
-**[Live Demo](https://turbo-kart-7e0n.onrender.com/)** . **[Repository](https://github.com/Sushanth-Patel/Turbo-Kart)**
+**[Download APK](https://github.com/Sushanth-Patel/Chat-Application/releases/download/v1.0.0/app-debug.apk)** · **[Repository](https://github.com/Sushanth-Patel/Chat-Application)**
 
 </details>
 
@@ -208,44 +207,6 @@ AI-powered navigation platform analyzing safety-related data and community input
 <br>
 
 <details>
-<summary><strong>💬 Chat Application</strong> — Real-Time Android Messaging</summary>
-
-<br>
-
-Real-time Android chat application with Firebase authentication, user search, messaging, and push notifications.
-
-**Tech:**  
-`Java` `Android` `Firebase`
-
-**Highlights**
-- OTP authentication
-- User search
-- Real-time messaging
-- Push notifications
-
-**[Download APK](https://github.com/Sushanth-Patel/Chat-Application/releases/download/v1.0.0/app-debug.apk)** · **[Repository](https://github.com/Sushanth-Patel/Chat-Application)**
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>🔒 Dopamine Lock</strong> — Focus &amp; Digital Wellbeing Android Application</summary>
-
-<br>
-
-Android application designed around reducing distracting app usage through app blocking, quizzes, journaling, and focus interactions.
-
-**Tech:**  
-`Kotlin` `Android`
-
-**[Download APK](https://github.com/Sushanth-Patel/Chat-Application/releases/download/v1.0.0/app-debug.apk)** · **[Repository](https://github.com/Sushanth-Patel/Dopamine_Lock)**
-
-</details>
-
-<br>
-
-<details>
 <summary><strong>🧠 Retrieval-Augmented Generation Pipeline</strong> — Multi-Format RAG System</summary>
 
 <br>
@@ -266,6 +227,44 @@ RAG pipeline processing documents with vector and hybrid search to generate grou
 
 </details>
 
+<br>
+
+<details>
+<summary><strong>🏎️ Turbo Smash Karts 3D</strong> — Multiplayer Kart Battle Arena</summary>
+
+<br>
+
+Browser-based 3D kart combat game built with Three.js and a Node.js WebSocket server. Players can battle online in rooms, customize their karts, collect weapons, or play offline with AI opponents.
+
+**Tech:**
+`JavaScript` `Three.js` `Node.js` `WebSocket` `Web Audio API`
+
+**Highlights**
+- Real-time multiplayer rooms with synchronized game state
+- AI fallback for solo and offline play
+- Weapons, power-ups, health, respawning, and killfeed
+- Kart, driver, wheel, exhaust, and paint customization
+- Desktop keyboard and mobile touch controls
+
+**[Live Demo](https://turbo-kart-7e0n.onrender.com/)** . **[Repository](https://github.com/Sushanth-Patel/Turbo-Kart)**
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>🔒 Dopamine Lock</strong> — Focus &amp; Digital Wellbeing Android Application</summary>
+
+<br>
+
+Android application designed around reducing distracting app usage through app blocking, quizzes, journaling, and focus interactions.
+
+**Tech:**  
+`Kotlin` `Android`
+
+**[Download APK](https://github.com/Sushanth-Patel/Chat-Application/releases/download/v1.0.0/app-debug.apk)** · **[Repository](https://github.com/Sushanth-Patel/Dopamine_Lock)**
+
+</details>
 ---
 
 <!-- ==================== GITHUB ACTIVITY ==================== -->
